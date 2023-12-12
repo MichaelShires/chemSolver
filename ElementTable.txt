@@ -1,0 +1,185 @@
+ElementTable:
+  .word       'H', 0, 1, 1008
+  .asciiz     "Hydrogen       "
+  .word       'H', 'e', 2, 4002
+  .asciiz     "Helium         "
+  .word       'L', 'i', 3, 6940
+  .asciiz     "Lithium        "
+  .word       'B', 'e', 4, 9012
+  .asciiz     "Beryllium      "
+  .word       'B', 0, 5, 10810
+  .asciiz     "Boron          "
+  .word       'C', 0, 6, 12011
+  .asciiz     "Carbon         "
+  .word       'N', 0, 7, 14007
+  .asciiz     "Nitrogen       "
+  .word       'O', 0, 8, 15999
+  .asciiz     "Oxygen         "
+  .word       'F', 0, 9, 18998
+  .asciiz     "Fluorine       "
+  .word       'N', 'e', 10, 20180
+  .asciiz     "Neon           "
+  .word       'N', 'a', 11, 22990
+  .asciiz     "Sodium         "
+  .word       'M', 'g', 12, 24305
+  .asciiz     "Magnesium      "
+  .word       'A', 'l', 13, 26982
+  .asciiz     "Aluminum       "
+  .word       'S', 'i', 14, 28085
+  .asciiz     "Silicon        "
+  .word       'P', 0, 15, 30974
+  .asciiz     "Phosphor       "
+  .word       'S', 0, 16, 32060
+  .asciiz     "Sulfur         "
+  .word       'C', 'l', 17, 35450
+  .asciiz     "Chlorine       "
+  .word       'A', 'r', 18, 39948
+  .asciiz     "Argon          "
+  .word       'K', 0, 19, 39098
+  .asciiz     "Potassium      "
+  .word       'C', 'a', 20, 40078
+  .asciiz     "Calcium        "
+  .word       'S', 'c', 21, 44956
+  .asciiz     "Scandium       "
+  .word       'T', 'i', 22, 47867
+  .asciiz     "Titanium       "
+  .word       'V', 0, 23, 50942
+  .asciiz     "Vanadium       "
+  .word       'C', 'r', 24, 51996
+  .asciiz     "Chromium       "
+  .word       'M', 'n', 25, 54938
+  .asciiz     "Manganese      "
+  .word       'F', 'e', 26, 55845
+  .asciiz     "Iron           "
+  .word       'C', 'o', 27, 58933
+  .asciiz     "Cobalt         "
+  .word       'N', 'i', 28, 58693
+  .asciiz     "Nickel         "
+  .word       'C', 'u', 29, 63546
+  .asciiz     "Copper         "
+  .word       'Z', 'n', 30, 65380
+  .asciiz     "Zinc           "
+  .word       'G', 'a', 31, 69723
+  .asciiz     "Gallium        "
+  .word       'G', 'e', 32, 72630
+  .asciiz     "Germanium      "
+  .word       'A', 's', 33, 74922
+  .asciiz     "Arsenic        "
+  .word       'S', 'e', 34, 78971
+  .asciiz     "Selenium       "
+  .word       'B', 'r', 35, 79904
+  .asciiz     "Bromine        "
+  .word       'K', 'r', 36, 83798
+  .asciiz     "Krypton        "
+  .word       'R', 'b', 37, 85468
+  .asciiz     "Rubidium       "
+  .word       'S', 'r', 38, 87620
+  .asciiz     "Strontium      "
+  .word       'Y', 0, 39, 88906
+  .asciiz     "Yttrium        "
+  .word       'Z', 'r', 40, 91224
+  .asciiz     "Zirconium      "
+  .word       'N', 'b', 41, 92906
+  .asciiz     "Niobium        "
+  .word       'M', 'o', 42, 95950
+  .asciiz     "Molybdenum     "
+  .word       'T', 'c', 43, 98000
+  .asciiz     "Technetium     "
+  .word       'R', 'u', 44, 101070
+  .asciiz     "Ruthenium      "
+  .word       'R', 'h', 45, 102910
+  .asciiz     "Rhodium        "
+  .word       'P', 'd', 46, 106420
+  .asciiz     "Palladium      "
+  .word       'A', 'g', 47, 107870
+  .asciiz     "Silver         "
+  .word       'C', 'd', 48, 112410
+  .asciiz     "Cadmium        "
+  .word       'I', 'n', 49, 114820
+  .asciiz     "Indium         "
+  .word       'S', 'n', 50, 118710
+  .asciiz     "Tin            "
+  .word       'S', 'b', 51, 121760
+  .asciiz     "Antimony       "
+  .word       'T', 'e', 52, 127600
+  .asciiz     "Tellurium      "
+  .word       'I', 0, 53, 126900
+  .asciiz     "Iodine         "
+  .word       'X', 'e', 54, 131290
+  .asciiz     "Xenon          "
+  .word       'C', 's', 55, 132910
+  .asciiz     "Cesium         "
+  .word       'B', 'a', 56, 137330
+  .asciiz     "Barium         "
+  .word       'L', 'a', 57, 138910
+  .asciiz     "Lanthanum      "
+  .word       'C', 'e', 58, 140120
+  .asciiz     "Cerium         "
+  .word       'P', 'r', 59, 140910
+  .asciiz     "Praesodymium   "
+  .word       'N', 'd', 60, 144240
+  .asciiz     "Neodymium      "
+  .word       'P', 'm', 61, 145000
+  .asciiz     "Promethium     "
+  .word       'S', 'm', 62, 150360
+  .asciiz     "Samarium       "
+  .word       'E', 'u', 63, 151960
+  .asciiz     "Europium       "
+  .word       'G', 'd', 64, 157250
+  .asciiz     "Gadolinium     "
+  .word       'T', 'b', 65, 158930
+  .asciiz     "Terbium        "
+  .word       'D', 'y', 66, 162500
+  .asciiz     "Dysprosium     "
+  .word       'H', 'o', 67, 164930
+  .asciiz     "Holmium        "
+  .word       'E', 'r', 68, 167260
+  .asciiz     "Erbium         "
+  .word       'T', 'm', 69, 168930
+  .asciiz     "Thulium        "
+  .word       'Y', 'b', 70, 173050
+  .asciiz     "Ytterbium      "
+  .word       'L', 'u', 71, 174970
+  .asciiz     "Lutetium       "
+  .word       'H', 'f', 72, 178490
+  .asciiz     "Hafnium        "
+  .word       'T', 'a', 73, 180950
+  .asciiz     "Tantalum       "
+  .word       'W', 0, 74, 183840
+  .asciiz     "Tungsten       "
+  .word       'R', 'e', 75, 186210
+  .asciiz     "Rhenium        "
+  .word       'O', 's', 76, 190230
+  .asciiz     "Osmium         "
+  .word       'I', 'r', 77, 192220
+  .asciiz     "Iridium        "
+  .word       'P', 't', 78, 195080
+  .asciiz     "Platinum       "
+  .word       'A', 'u', 79, 196970
+  .asciiz     "Gold           "
+  .word       'H', 'g', 80, 200590
+  .asciiz     "Mercury        "
+  .word       'T', 'l', 81, 204380
+  .asciiz     "Thallium       "
+  .word       'P', 'b', 82, 207200
+  .asciiz     "Lead           "
+  .word       'B', 'i', 83, 208980
+  .asciiz     "Bismuth        "
+  .word       'P', 'o', 84, 209000
+  .asciiz     "Polonium       "
+  .word       'A', 't', 85, 210000
+  .asciiz     "Astatine       "
+  .word       'R', 'n', 86, 222000
+  .asciiz     "Radon          "
+  .word       'F', 'r', 87, 223000
+  .asciiz     "Francium       "
+  .word       'R', 'a', 88, 226000
+  .asciiz     "Radium         "
+  .word       'A', 'c', 89, 227000
+  .asciiz     "Actinium       "
+  .word       'T', 'h', 90, 232040
+  .asciiz     "Thorium        "
+  .word       'P', 'a', 91, 231040
+  .asciiz     "Protactinium   "
+  .word       'U', 0, 92, 238030
+  .asciiz     "Uranium        "
