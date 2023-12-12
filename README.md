@@ -3,6 +3,8 @@ A program in MIPS32 assembly to balance an unbalanced (but balance-able) chemica
 
 This is a program created for the final project of CMPEN 351: Microprocessors at Penn State - World Campus in the summer of 2023. Overall I had a lot of fun with this project, and although it's still kind of buggy I'm pleased with how it turned out. The framework being used here is the basis for the [MathHelper](https://www.github.com/MichaelShires/MathHelper) project.
 
+I think one major lesson this project taught me was that to make a computer do something, you have to know *exactly* how to do it. I spent quite a bit of time trying to figure out how to break down this problem, and I realized I had set up a fairly daunting task - to accomplish this I had to create a library to manage, reduce and solve a system of linear equations of unknown size. But once the steps started to come together, it was really gratifying to watch the project come together.
+
 ## Major Steps
 
 1. First, it determines the number of reactants and products, and creates an array of the appropriate size for both.
