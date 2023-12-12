@@ -1,7 +1,7 @@
 # chemSolver
 A program in MIPS32 assembly to balance an unbalanced (but balance-able) chemical reaction.
 
-This is a program created for the final project of CMPEN 351: Microprocessors at Penn State - World Campus in the summer of 2023. Overall I had a lot of fun with this project, and although it's still kind of buggy I'm pleased with how it turned out. The framework being used here is the basis for the[MathHelper](https://www.github.com/MichaelShires/MathHelper) project.
+This is a program created for the final project of CMPEN 351: Microprocessors at Penn State - World Campus in the summer of 2023. Overall I had a lot of fun with this project, and although it's still kind of buggy I'm pleased with how it turned out. The framework being used here is the basis for the [MathHelper](https://www.github.com/MichaelShires/MathHelper) project.
 
 ## Major Steps
 
