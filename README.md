@@ -9,10 +9,10 @@ I think one major lesson this project taught me was that to make a computer do s
 
 1. First, it determines the number of reactants and products, and creates an array of the appropriate size for both.
 2. Then, it queries the user for each reactant and product, parsing them for valid chemical symbols.
-3. From there it determines the number of unique elements in the reaction, and creates an array modeling a system of linear equations for each unique element.
+3. From there it determines the number of unique elements in the reaction, and creates a two-dimensional array modeling a system of linear equations for each unique element.
 4. It reduces this array to reduced echelon form.
 5. Then co-efficients are assigned back to each term from the original formula, and the balanced reaction is displayed to the user.
 
-Overall I was pleased with how it turned out. I ended up runnign out of time and wasn't able to make it was bug-free as I'd like, pretty much anything wrong would crash it (an unbalanceable equation, typos, non-chemicals, parantheses, an under-defined or over-defined system is inputted, etc.,) however all these issues were identified and I decided it would be more worth my time to fix these when I actually ported it over to C/C++ to make a more robust project, which is going on right now.
+Overall I was pleased with how it turned out. I ended up running out of time and wasn't able to make it as bug-free as I'd like, pretty much anything wrong would crash it (an unbalanceable equation, typos, non-chemicals, parantheses, an under-defined or over-defined system is inputted, etc.,) however all these issues were identified and I decided it would be more worth my time to fix these when I actually ported it over to C/C++ to make a more robust project, which is going on right now.
 
-Anyways that's pretty much it, feel free to look around or just use it as a reference if you ever find yourself writing in MIPS32, I'd like to think it's mostly commented well. This project is also where I shifted from tabs to spaces so it's an important point in my software maturation.
+Anyways that's pretty much it, feel free to look around or just use it as a reference if you ever find yourself writing in MIPS32, I'd like to think it's mostly commented well. This project is also where I shifted from tabs to spaces so it's an important point in my software development career.
